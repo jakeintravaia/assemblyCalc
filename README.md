@@ -19,7 +19,8 @@ For the program to run correctly, you must enter your input in this format:
 
 Where op can be one of four operations:
 
-```+: Additon
+```
+   +: Additon
    -: Subtraction
    *: Multiplication
    /: Divison
